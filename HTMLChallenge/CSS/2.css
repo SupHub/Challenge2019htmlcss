@@ -1,0 +1,129 @@
+.chart1{
+    float:left;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+
+.blokleeg0{
+    color:white;
+    padding-top: 18px;
+}
+
+
+
+.blokleeg{
+    color: #000;
+    text-align: center;
+    width: 100px;
+    height:100px;
+    background: white;
+}
+
+.blok{
+    text-align: center;
+    color: white;
+    width: 100px;
+    height:100px;
+    background-color:lightseagreen;
+}
+
+.blok1b{
+    text-align: center;
+    color: white;
+    margin-right: -5px;
+    width: 150px;
+    height:100px;
+    background-color: #2d42d0;
+    margin-left: 5px;
+}
+
+.blok2p{
+    margin-right: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+    width: 100px;
+    height:100px;
+    background-color: mediumpurple;
+}
+
+.blok1{
+    text-align: center;
+    color: white;
+    width: 100px;
+    height:100px;
+    background-color: #2d42d0;
+    margin-left: 5px;
+}
+
+.blok2{
+    margin-left: 2px;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height:100px;
+    background-color: mediumpurple;
+}
+
+
+.blok3{
+    text-align: center;
+    color: white;
+    width: 100px;
+    height:100px;
+    background-color: #9c3997;
+    margin-left: 5px;
+
+}
+
+.blok31{
+
+    text-align: center;
+    color: white;
+    width: 100px;
+    height:100px;
+    background-color: #9c3997;
+    margin-top: 7px;
+    margin-left: 5px;
+    margin-bottom: 1px;
+
+}
+
+.blok32{
+    margin-left: 5px;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height:100px;
+    background-color: #9c3997;
+
+}
+
+
+.blok32p{
+
+    text-align: center;
+
+    color: white;
+    width: 150px;
+    height:100px;
+    background-color: #9c3997;
+
+}
+
+
+.blok32pp{
+    margin-left: 5px;
+    text-align: center;
+    color: white;
+    width: 100px;
+    height:100px;
+    background-color: #9c3997;
+
+}
+
+
+.lowerb {
+    clear: left;
+}
